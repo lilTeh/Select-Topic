@@ -6,6 +6,9 @@ module.exports = {
       fontFamily: {
         inria: ['Inria Sans', 'sans-serif'],
       },
+      colors: {
+        'Yellow': '#FFD676',
+      },
     },
   },
   plugins: [],
